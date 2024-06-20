@@ -1,0 +1,20 @@
+#This is the list of password from CTF challenges
+
+#This is not a reference or any cheat code, but, for only educational purpose
+
+Username: natas0
+Password: natas0
+URL:      http://natas0.natas.labs.overthewire.org
+
+Username: natas1
+Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+URL:      http://natas1.natas.labs.overthewire.org
+<!--The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
+
+Username: natas2
+Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+URL:      http://natas2.natas.labs.overthewire.org
+
+Username: natas3
+Password: 
+URL:      http://natas3.natas.labs.overthewire.org
