@@ -16,5 +16,33 @@ Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
 URL:      http://natas2.natas.labs.overthewire.org
 
 Username: natas3
-Password: 
+Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
 URL:      http://natas3.natas.labs.overthewire.org
+
+Username: natas4
+Password: QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+URL:      http://natas4.natas.labs.overthewire.org
+
+Username: natas5
+Password: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+URL:      http://natas5.natas.labs.overthewire.org
+
+Username: natas6
+Password: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+URL:      http://natas5.natas.labs.overthewire.org
+
+Username: natas7
+Password: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+URL:      http://natas7.natas.labs.overthewire.org
+
+Username: natas8
+Password: xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
+URL:      http://natas8.natas.labs.overthewire.org
+
+Username: natas9
+Password: ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+URL:      http://natas9.natas.labs.overthewire.org
+
+Username: natas10
+Password: 
+URL:      http://natas10.natas.labs.overthewire.org
